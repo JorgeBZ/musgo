@@ -1,0 +1,4 @@
+Version de Jorge
+
+git remote add origin https://github.com/JorgeBZ/musgo.git  //añadir una rama, en este caso se llama origin
+
